@@ -1,0 +1,10 @@
+{
+    "{7ebce542}": {
+        "mCharacterName": "TFT5_PoolParty_Crab",
+        "__type": "CharacterRecord"
+    },
+    "{cfddb374}": {
+        "useGDSBinaries": true,
+        "__type": "SkinCharacterMetaDataProperties"
+    }
+}
